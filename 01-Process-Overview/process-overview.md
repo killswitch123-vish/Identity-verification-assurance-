@@ -1,11 +1,31 @@
-What is the process?
+# Identity Verification Process – Process Overview
 
-Identity verification is the process of confirming that the person we are speaking to is the correct and authorised customer before we provide any information or make any changes. We do this by asking a set of verification questions and checking that the details match
+## 📌 What Is the Process?
 
-Why does it exist?
+Identity verification is the process of confirming that the person we are speaking to is the correct and authorised customer before any information is shared or changes are made.  
+This is done by asking mandatory verification questions and checking the details against system records.
 
-It exists to protect customer information, prevent unauthorized access, and meet compliance and privacy requirements. It helps maintain confidentiality and ensures the business follows proper controls
+---
 
-What could go wrong if identity verification fails?
+## 📌 Why Does It Exist?
 
-If identity verification isn’t done properly, an unauthorized person could access someone else’s information. This can lead to privacy breaches, fraud, financial loss, and damage to the company’s reputation
+Identity verification exists to:
+
+- Protect customer information  
+- Prevent unauthorised access  
+- Maintain compliance with privacy and regulatory requirements  
+- Ensure confidentiality and proper control execution  
+
+---
+
+## 📌 What Could Go Wrong If Verification Fails?
+
+If identity verification is not performed correctly:
+
+- An unauthorised individual may access customer information  
+- Financial fraud may occur  
+- Customer data may be misused  
+- Operational and regulatory breaches may occur  
+- The organisation's reputation may be damaged  
+
+Identity verification is a critical control. Failures create direct privacy, fraud, and reputational risks.
