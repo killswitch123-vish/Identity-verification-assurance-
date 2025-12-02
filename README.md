@@ -1,91 +1,31 @@
-Identity Verification Assurance Review
+# Identity Verification Process – Process Overview
 
-An operational assurance review assessing how effectively an organisation verifies customer identity before performing any actions or sharing information. This review evaluates risks, controls, and both the Test of Design (ToD) and Test of Effectiveness (ToE) relating to identity verification.
+## 📌 What Is the Process?
 
-1. Purpose of This Review
+Identity verification is the process of confirming that the person we are speaking to is the correct and authorised customer before any information is shared or changes are made.  
+This is done by asking mandatory verification questions and checking the details against system records.
 
-Identity verification ensures we are interacting with the correct and authorised customer before sharing information or making account changes.
-This process protects:
-Customer privacy
-Financial security
-Regulatory compliance
-Organisational reputation
+---
 
-2. Why Identity Verification Exists
+## 📌 Why Does It Exist?
 
-Identity verification helps prevent:
+Identity verification exists to:
 
-Unauthorised account access
-Misuse of personal information
-Fraudulent actions
-Privacy breaches
-Loss of customer trust
-It ensures the organisation follows proper controls and maintains confidentiality.
+- Protect customer information  
+- Prevent unauthorised access  
+- Maintain compliance with privacy and regulatory requirements  
+- Ensure confidentiality and proper control execution  
 
-3. Key Risks
-   
-Privacy Risk
-If verification fails, an unauthorised person may access sensitive personal information, leading to a privacy breach.
+---
 
-Fraud Risk
-A caller could impersonate the customer and make fraudulent changes to the account.
+## 📌 What Could Go Wrong If Verification Fails?
 
-Reputational Risk
-Identity-verification failures can reduce customer trust and damage the organisation’s reputation.
+If identity verification is not performed correctly:
 
-4. Controls Evaluated
-   
-Privacy Risk – Control
-Customer identity must be fully verified using standard verification questions before providing information.
+- An unauthorised individual may access customer information  
+- Financial fraud may occur  
+- Customer data may be misused  
+- Operational and regulatory breaches may occur  
+- The organisation's reputation may be damaged  
 
-Fraud Risk – Control
-No account changes can be made until identity verification is completed.
-
-Reputational Risk – Control
-Staff must follow the verification steps and document all interactions clearly to create an audit trail.
-
-5. Test of Design (ToD)
-   
-Privacy Risk – ToD
-The verification steps are clearly documented and require verification before any information is shared. Strong control design.
-
-Fraud Risk – ToD
-Documentation clearly requires identity verification before any changes. Good design prevents impersonation.
-
-Reputational Risk – ToD
-The design requires full documentation and verification before providing information. Good design for audit trail and accountability.
-
-6. Test of Effectiveness (ToE)
-   
-Privacy Risk – ToE
-Staff generally complete verification before sharing information, but some notes are missed.
-
-Fraud Risk – ToE
-Staff normally verify identity before making changes; however, documentation gaps impact audit completeness.
-
-Reputational Risk – ToE
-Verification usually happens, but incomplete notes reduce audit trail quality.
-
-7. Findings
-   
-Finding 1: Incomplete Notes
-Impact: Weak audit trail and potential compliance issues.
-Recommendation: Provide reminders or refresher training to ensure full verification steps are always recorded.
-
-Finding 2: Missed Verification
-Impact: Risk of unauthorised access or fraud.
-Recommendation: More regular refresher training + QA feedback to improve consistency.
-
-Finding 3: Emails Sent to Incorrect Addresses
-Impact: Confidentiality breaches and regulatory risk.
-Recommendation: Staff must verify contact details before sending sensitive information; reinforce through QA feedback.
-
-8. Summary
-
-This assurance review highlights the importance of strong identity verification controls.
-While the  control design is strong, its effectiveness can be improved through:
-    -Better staff training
-    -Stronger documentation habits
-    -More consistent QA feedback
-    
-These improvements reduce privacy, fraud, and reputational risks
+Identity verification is a critical control. Failures create direct privacy, fraud, and reputational risks.
