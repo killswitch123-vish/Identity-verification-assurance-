@@ -1,23 +1,42 @@
-Finding 1: Incomplete Notes
+# Findings & Recommendations
 
-Findings - Some calls had incomplete notes, and not all verification steps were documented.
+This section summarises issues found during the assurance review and proposed remediation actions.
 
-Impact - This can cause compliance issues and makes it harder for staff to understand past interactions.
+---
 
-Recommendation - Provide remainder or a quick training for staff to complete the full notes and record verification steps clearly.
+## 🔎 Finding 1: Incomplete Notes
 
-Finding 2: Missed Verification
+### Issue
+Some calls had incomplete notes, and verification steps were not always documented.
 
-Findings - Some calls were not fully verified, and the complete identity check wasn’t always followed.
+### Impact
+Weak audit trail; potential compliance issues.
 
-Impact - This increases the risk of unauthorised access and potential fraud.
+### Recommendation
+Refresher training for staff to document verification steps consistently.
 
-Recommendation - Provide regular reminders or short refresher training to staff on the full verification steps. QA feedback can be used to support this and highlight areas that need improvement
+---
 
-Finding 3: Email sent to wrong Email address
+## 🔎 Finding 2: Missed Verification
 
-Findings - Some emails were sent to the wrong email address, which indicates inconsistent checking before sending information.
+### Issue
+Full verification was not always completed before actions were taken.
 
-Impact - This can lead to compliance issues and breaches of confidentiality.
+### Impact
+Increased risk of privacy breaches and fraud.
 
-Recommendation - Provide refreshers on verifying contact details before sending emails. QA feedback can support this by highlighting cases where contact details were not double-checked.
+### Recommendation
+Regular reminders, QA feedback, and short refresher sessions on the verification process.
+
+---
+
+## 🔎 Finding 3: Emails Sent to Incorrect Addresses
+
+### Issue
+Some emails were sent to the wrong customer email address due to insufficient checks.
+
+### Impact
+Confidentiality breaches and customer trust impact.
+
+### Recommendation
+Reinforce verification of email addresses before sending communications; use QA examples to reinforce correct behaviour.
